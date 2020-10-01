@@ -20,6 +20,12 @@
 		public function modulus($num1, $num2){
 			return $num1%$num2;
 		}
+		
+		plus(10, 17);
+		minus(88, 19);
+		times(99, 678);
+		divide(56, 7);
+		modulus(17, 9);
 	}
 
  ?>
