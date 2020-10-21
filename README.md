@@ -1,3 +1,3 @@
 # kalkulator-OOP
 
-Simple calculator app
+Simple calculator app with php
